@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "921599693086",
+    "firebase_url": "https://logindemo-43234-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "logindemo-43234",
+    "storage_bucket": "logindemo-43234.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921599693086:android:29242830f3429cfda3790f",
+        "android_client_info": {
+          "package_name": "com.example.loginpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921599693086-bveatbidvblpfno67l7928kjhjabis0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQpAjy_Ib5sp3-9bSdZzvGP_IDUyKcuXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921599693086-bveatbidvblpfno67l7928kjhjabis0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
